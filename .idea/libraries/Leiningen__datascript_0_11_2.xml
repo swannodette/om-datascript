@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: datascript:0.11.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/datascript/datascript/0.11.2/datascript-0.11.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
